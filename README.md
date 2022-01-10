@@ -1,4 +1,5 @@
 ### Hello i'm Germano Nottingham
+🌱 I’m currently studying analysis and systems development
 <div align="left">
   <a href="https://github.com/germanonott">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=germanonott&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
