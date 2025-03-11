@@ -1,5 +1,5 @@
 ### Hello i'm Germano Nottingham
-Developer Web Javascript | HTML | CSS | Node.js | React
+Developer Java | Javascript | HTML | CSS | Node.js | React
 <div align="left">
   <a href="https://github.com/germanonott">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=germanonott&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -7,6 +7,9 @@ Developer Web Javascript | HTML | CSS | Node.js | React
 </div>
 <div style="display: inline_block"><br>
 <!--   <img align="center" alt="Germanott-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"> -->
+  
+        
+  <img align="center" alt="Germanott-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">        
   <img align="center" alt="Germanott-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Germanott-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Germanott-React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
